@@ -17,6 +17,9 @@
       <h1 data-value="I ❤️ <?php include "./service/urlparam.php" ?> ">I ❤️ <?php include "./service/urlparam.php" ?> </h1>
       
     </div>
+    <div class="footer">
+        Created by <a href='//www.instagram.com/ariharyanto_/' target='_blank'>@ariharyanto_ </a> (IG)
+      </div>
   </body>
   <script src="./js/mascript.js"></script>
 </html>
