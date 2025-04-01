@@ -1,0 +1,1 @@
+<?php if( isset($_GET['u']) && $_GET['u'] !== '' ){ echo $_GET['u']; } else { echo 'U'; } ?>
